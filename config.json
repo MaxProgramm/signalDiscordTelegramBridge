@@ -1,0 +1,22 @@
+{
+  "discord":
+  {
+    "SignalToDc_BotToken": "Bot Token",
+    "DcToSignal_BotToken": "BotToken",
+    "SignalDiscordChatId": 123456789,
+    "SignalToDc_BotId": 123456789
+  },
+
+  "signal":
+  {
+    "signal_service": "IP-Address:Port",
+    "phone_number": "EntirePhoneNumber(with countrycode)",
+    "group_id": "Group-Id",
+    "internal_id": "Internal-Id"
+  },
+
+  "telegram":
+  {
+    "bot_token": "TOKEN"
+  }
+}
