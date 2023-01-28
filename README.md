@@ -9,7 +9,7 @@ For Discord i use the official discord.py, by Discord.
 
 For Telegram i use the pyTelegramBotAPI, ( see https://pypi.org/project/pyTelegramBotAPI/), which is a simple, but extensible Python implementation for the Telegram Bot API.
 
-You can configure everything in the config.yml.
+You can configure everything in the config.json.
 
 For handling incoming and outgoing messages on the discord server i am using two seperate discord bots. Ones job is to receive discord messages from the other services/bots and send them into the discord chat, the other ones job is to receive discord messages in the discord chat and forward them to the other bots / services. The translation betwenn the diffrent bots, is made possible through text files and Http reqests.
 
